@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+ 
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: 'Poppins';
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+/* Conteiner Inicio */
+.inicio{
+    display: block;
+    background-color: #7335b7;
+    width: 98vw;
+    height: 100vh;
+    border-radius: 0px 0px 280px 0px;
+    position: relative;
+    flex-direction: wrap;
+}
+
+.imginicio{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    display: inline-block;
+}
+
+.textoinicio{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    display: inline-block;
+}
+
+.logo{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.nav {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin-left: 280px;
+}
+
+.faq {
+    text-align: left;
+    display: inline-block;
+    margin-left: 250px;
+}
+
+button {
+    background-color: #7335b7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: white;
+    color: #7335b7;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
