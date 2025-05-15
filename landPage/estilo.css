@@ -78,3 +78,38 @@ button:hover {
     cursor: pointer;
     font-size: 16px;
 }
+/* Fim Conteiner Inicio */
+
+/* Inicio do Conteiner Sobre */
+.sobre{
+    background-color: #7335b7;
+    margin-top: 20px;
+    top: 50px;
+    width: 98vw;
+    height: 100vh;
+    border-radius: 280px 0px 200px 0px;
+    position: relative;
+    display: block;
+}
+
+.sobreimagem{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    display: inline-block;
+}
+.sobretexto{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    display: inline-block;
+    position: absolute;
+}
+
+/* Fim do Conteiner Sobre */
+
+/* Inicio do Conteiner Serviços */
+
+
