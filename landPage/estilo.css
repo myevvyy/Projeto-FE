@@ -187,7 +187,7 @@ button:hover {
 /* Inicio do Conteiner Contato */
 .contato {
     background-color: #7335b7;
-    top: 1350px;
+    top: 3000px;
     width: 98vw;
     height: 100vh;
     border-radius: 0px 0px 280px 0px;
@@ -209,7 +209,8 @@ button:hover {
     text-align: justify;
     position: absolute;
     display: block;
-    margin-left: 40px;
+    margin-left: 60px;
+    margin-top: 200px;
 }
 
 form input[type=text] {
